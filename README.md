@@ -1,2 +1,2 @@
-# tuskj
-my first rep
+# tuskjns
+my first repository
